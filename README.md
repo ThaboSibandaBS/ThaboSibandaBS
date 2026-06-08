@@ -28,7 +28,7 @@ Process Improvement | Process Troubleshooting · Debottlenecking · Process Perf
 
 - Upskilling in industrial data science and ML for process applications
 - Building a portfolio of open-source metallurgical analytics tools
-- Open to graduate engineering and industrial data roles in South Africa
+- Open to **graduate metallurgical/process engineering** and **industrial data** roles in South Africa
 
 ---
 
@@ -43,9 +43,9 @@ Process Improvement | Process Troubleshooting · Debottlenecking · Process Perf
 
 ## Featured Projects 🔧
 
-- 🧪 **Leaching Stage Classifier** - ML classification of hydrometallurgical leaching stages from process variables (pH, ORP, temperature, reagent dosing) *(coming soon)*
-- ⚗️ **MnCO₃ Recovery Process** - MSc thesis: CO₂-based precipitation of high-purity manganese carbonate validated for Li-ion battery precursor specifications
-- 📊 **Mass Balance Dashboard** - Interactive Plotly/Dash tool for multi-unit circuit reconciliation and uncertainty quantification *(in progress)*
+- 🧪 **Leaching Stage Classifier** — ML classification of hydrometallurgical leaching stages from process variables (pH, ORP, temperature, reagent dosing) *(coming soon)*
+- ⚗️ **MnCO₃ Recovery Process** — MSc thesis: CO₂-based precipitation of high-purity manganese carbonate validated for Li-ion battery precursor specifications
+- 📊 **Mass Balance Dashboard** — Interactive Plotly/Dash tool for multi-unit circuit reconciliation and uncertainty quantification *(in progress)*
 
 ---
 
